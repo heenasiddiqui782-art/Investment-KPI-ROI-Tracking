@@ -69,7 +69,6 @@ The dashboard has 5 tabs (Categories, Departments, Budget vs Actual, Risk & Retu
 | **Risk_Return** | Four-quadrant risk/return classification |
 | **Scenario_Analysis** | Editable Best/Base/Worst case assumptions with live portfolio ROI recalculation |
 
-Full formula definitions are in [`docs/methodology.md`](docs/methodology.md).
 
 ## Key insights from this dataset
 
