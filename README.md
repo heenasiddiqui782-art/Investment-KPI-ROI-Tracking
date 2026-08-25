@@ -4,7 +4,11 @@ An Excel-based financial analytics system that tracks, analyzes, and visualizes 
 
 **[🔴 Live Dashboard]**
 
-https://github.com/user-attachments/assets/da82223b-ee6a-4eec-8c2f-5fc12a575a73
+
+
+https://github.com/user-attachments/assets/a084cdfe-941f-44cc-8a2d-db4676e7e0c1
+
+
 
 
 · **[Download the full workbook](financial-model/Investment_KPI_ROI_Tracking_System.xlsx)** · 150 investments · 9 linked worksheets · fully formula-driven
