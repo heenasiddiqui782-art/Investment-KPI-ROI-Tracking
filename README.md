@@ -81,8 +81,6 @@ The dashboard has 5 tabs (Categories, Departments, Budget vs Actual, Risk & Retu
 - **Risk-Return split:** 46 investments sit in High Return / Low-Medium Risk (the ideal quadrant); 27 sit in Low Return / High Risk (the ones to review first)
 - **Rating distribution:** 56 investments rated "Excellent," 83 rated "Critical" — meaning a majority of the portfolio needs review or restructuring
 
-*(These are generated from a synthetic dataset seeded for reproducibility — see [`docs/methodology.md`](docs/methodology.md) for how it was built.)*
-
 ## Tools used
 
 Microsoft Excel — formulas only (SUMIF/SUMIFS, AVERAGEIF/AVERAGEIFS, SUMPRODUCT, INDEX/MATCH, NPV logic, conditional formatting, data validation, native charts). No add-ins, no VBA.
